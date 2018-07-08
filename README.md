@@ -1,2 +1,2 @@
 # python
-# This is a personal python-based SCF program.
+# This is a personally-produced python-based SCF program.
